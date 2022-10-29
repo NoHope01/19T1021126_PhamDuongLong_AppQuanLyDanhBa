@@ -1,0 +1,17 @@
+D:\.NET\QLDB\QLDB\bin\Debug\QLDB.exe.config
+D:\.NET\QLDB\QLDB\bin\Debug\QLDB.exe
+D:\.NET\QLDB\QLDB\bin\Debug\QLDB.pdb
+D:\.NET\QLDB\QLDB\bin\Debug\EntityFramework.dll
+D:\.NET\QLDB\QLDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\.NET\QLDB\QLDB\bin\Debug\EntityFramework.xml
+D:\.NET\QLDB\QLDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.csproj.AssemblyReference.cache
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.csproj.SuggestedBindingRedirects.cache
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.Form1.resources
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.frmThemNhom.resources
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.Properties.Resources.resources
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.csproj.GenerateResource.cache
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.csproj.CoreCompileInputs.cache
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.csproj.CopyComplete
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.exe
+D:\.NET\QLDB\QLDB\obj\Debug\QLDB.pdb
